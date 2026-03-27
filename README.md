@@ -12,24 +12,35 @@ This project focuses on analyzing customer behavior to understand retention and 
 🔧Tools Used:
 
 ➤ Power BI – for interactive dashboards and visualization
+
 ➤ Microsoft Excel – for data cleaning and preprocessing
+
 ➤ DAX – for creating calculated measures (churn rate, retention rate, etc.)
+
 ➤ Data Modeling – to establish relationships between datasets
 
 🧠Key Insights:
 
 ➤ A significant percentage of customers churn after a specific time period
+
 ➤ Customers with low engagement are more likely to leave
+
 ➤ Certain customer segments show higher retention rates
+
 ➤ Discounts and offers positively impact customer retention
+
 ➤ Customer churn is higher in specific categories/services
 
 💡Recommendations:
 
 ➤ Implement loyalty programs to retain existing customers
+
 ➤ Target at-risk customers with personalized offers
+
 ➤ Improve customer engagement through regular communication
+
 ➤ Analyze feedback to address customer pain points
+
 ➤ Focus on high-value customers to increase long-term revenue
 
 🎯Outcomes of Task 2:
